@@ -27,7 +27,7 @@ function Main() {
           <>
             <div className="greet">
               <p>
-                <span>Hello, Dora.</span>
+                <span>Hello, Developer.</span>
               </p>
               <p>How can I help you today?</p>
             </div>
